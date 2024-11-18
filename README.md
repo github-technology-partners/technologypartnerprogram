@@ -74,10 +74,9 @@ Utilize GitHub’s powerful platform capabilities to build, ship, and maintain s
 ## 🤝 Why Partner with GitHub
 Partnering with GitHub enables your tools and services to reach millions of developers, enhancing collaboration and creating more impactful products. Through partnerships, you can:
 
-- A.
-- B.
-- C.
-- D.
+- Work on GitHub products before anyone else
+- Receive Partner Engineering technical support 
+- Get free GitHub Enterprise Server licenses to deliver better results to your customers
 
 🔗 [Learn More About Becoming a GitHub Partner](https://partner.github.com/)
 
