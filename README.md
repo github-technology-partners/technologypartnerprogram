@@ -5,16 +5,16 @@
 Welcome to the public repository dedicated to helping developers understand how GitHub partners transform the software development lifecycle. Technology partnerships play a crucial role in expanding the GitHub ecosystem by integrating leading tools and services directly into GitHub's platform. This collaboration enhances the developer experience, streamlining the way software is built, deployed, and maintained.
 
 ## 📚 Table of Contents
-- [Explore Partner Integrations](#why-use-partner-integrations)
+- [Explore Partner Integrations](#🚀-explore-partner-integrations)
   - [Marketplace](#marketplace)
     - [Apps](#apps)
     - [Actions](#actions)
-  - [AI](#ai)
+  - [AI](#🤖-ai)
     - [Copilot Extensions](#copilot-extensions)
-  - [GitHub Advanced Security](#github-advanced-security)
+  - [GitHub Advanced Security](#🔒-github-advanced-security)
     - [Code Scanning](#code-scanning)
     - [GHAS Reporting](#ghas-reporting)
-  - [Platform](#platform)
+  - [Platform](#💻-platform)
 - [Why Partner with GitHub](#why-partner-with-github)
 
 ---
@@ -37,7 +37,7 @@ Simplify your CI/CD pipelines and automate your workflows using GitHub Actions.
 
 ---
 
-### AI
+### 🤖 AI
 Discover how to integrate AI into your development process.
 
 <details>
@@ -50,7 +50,7 @@ Boost your productivity with GitHub Copilot and its extensions.
 
 ---
 
-### GitHub Advanced Security
+### 🔒 GitHub Advanced Security
 Secure your codebase with advanced tools designed to keep your projects protected.
 
 <details>
@@ -66,7 +66,7 @@ Learn how to export GHAS alerts into 3rd party platforms.
 
 ---
 
-### Platform
+### 💻 Platform
 Utilize GitHub's hosted runners and Codespaces for streamlined development and deployment.
 
 <details>
