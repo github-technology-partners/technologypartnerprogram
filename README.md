@@ -1,5 +1,3 @@
-![158236141-65111130-2c3a-498f-bc94-72fe2dab5352](https://user-images.githubusercontent.com/54083068/158707540-7e08b789-475d-4a3f-800a-c0197412cf53.png)
-
 # 🌐 GitHub Technology Partner Program
 
 Welcome to the public repository dedicated to helping developers understand how GitHub partners transform the software development lifecycle. Technology partnerships play a crucial role in expanding the GitHub ecosystem by integrating leading tools and services directly into GitHub's platform. This collaboration enhances the developer experience, streamlining the way software is built, deployed, and maintained.
@@ -15,7 +13,7 @@ Welcome to the public repository dedicated to helping developers understand how 
     - [Code Scanning](#code-scanning)
     - [GHAS Reporting](#ghas-reporting)
   - [Platform](#💻-platform)
-- [Why Partner with GitHub](#why-partner-with-github)
+- [Why Partner with GitHub](#🤝-why-partner-with-github)
 
 ---
 
@@ -78,6 +76,8 @@ Learn how to create a codespace for your GitHub repository.
 #### [Hosted Runners](hosted-runners.md)
 Learn how to use GitHub-hosted runners to run your workflows.
 
+</details>
+
 ---
 
 ## 🤝 Why Partner with GitHub
@@ -90,5 +90,3 @@ Partnering with GitHub enables your tools and services to reach millions of deve
 🔗 [Learn More About Becoming a GitHub Partner](https://partner.github.com/)
 
 ---
-
-
