@@ -42,7 +42,9 @@ Discover how to integrate AI into your development process.
 <summary>🔽 Expand AI Options</summary>
 
 #### [Copilot Extensions](copilot-extensions.md)
-Boost your productivity with GitHub Copilot and its extensions.
+Learn how to create a Copilot Extension and explore what partners have built.
+
+
 
 </details>
 
