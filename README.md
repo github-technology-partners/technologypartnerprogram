@@ -19,55 +19,64 @@ Welcome to the public repository dedicated to helping developers understand how 
 
 ---
 
-## 🚀 Why Use Partner Integrations
+## 🚀 Explore Partner Integrations
 
-### [Marketplace](https://github.com/marketplace)
-Explore a diverse range of integrations available in the GitHub Marketplace to optimize your development workflow.
+### Marketplace
+Create and distribute apps and actions on the GitHub Marketplace, extending your workflow capabilities.
 
 <details>
-<summary>🔽 Expand Marketplace Options</summary>
+<summary>🔽 Expand Marketplace categories</summary>
 
-#### [Apps](https://github.com/marketplace?type=apps)
+#### [Apps](apps.md)
 Integrate your favorite developer tools directly into GitHub to automate tasks, enhance productivity, and improve code quality.
 
-#### [Actions](https://github.com/marketplace?type=actions)
+#### [Actions](actions.md)
 Simplify your CI/CD pipelines and automate your workflows using GitHub Actions.
 
 </details>
 
 ---
 
-### [AI](#)
-Enhance your coding capabilities with cutting-edge AI solutions tailored for developers.
+### AI
+Discover how to integrate AI into your development process.
 
 <details>
 <summary>🔽 Expand AI Options</summary>
 
-#### [Copilot Extensions](https://github.com/features/copilot)
-Boost your productivity with GitHub Copilot and its extensions, turning natural language prompts into coding suggestions seamlessly.
+#### [Copilot Extensions](copilot-extensions.md)
+Boost your productivity with GitHub Copilot and its extensions.
 
 </details>
 
 ---
 
-### [GitHub Advanced Security](https://github.com/features/security)
+### GitHub Advanced Security
 Secure your codebase with advanced tools designed to keep your projects protected.
 
 <details>
 <summary>🔽 Expand Advanced Security Options</summary>
 
-#### [Code Scanning](https://docs.github.com/en/code-security/code-scanning)
-Identify vulnerabilities in your code during the development process to prevent potential security risks.
+#### [Secret Scanning](https://docs.github.com/en/code-security/code-scanning)
+Learn how to become a secret scanning partner.
 
-#### [GHAS Reporting](https://github.com/features/security)
-Access comprehensive reporting tools that help you maintain compliance and improve your security posture.
+#### [GHAS Reporting](GHAS.md)
+Learn how to export GHAS alerts into 3rd party platforms.
 
 </details>
 
 ---
 
-### [Platform](https://github.com/features)
-Utilize GitHub’s powerful platform capabilities to build, ship, and maintain software more effectively.
+### Platform
+Utilize GitHub's hosted runners and Codespaces for streamlined development and deployment.
+
+<details>
+<summary>🔽 Expand Platform Options</summary>
+
+#### [Codespaces](codespaces.md)
+Learn how to create a codespace for your GitHub repository.
+
+#### [Hosted Runners](hosted-runners.md)
+Learn how to use GitHub-hosted runners to run your workflows.
 
 ---
 
