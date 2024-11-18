@@ -5,7 +5,7 @@
 Welcome to the public repository dedicated to helping developers understand how GitHub partners transform the software development lifecycle. Technology partnerships play a crucial role in expanding the GitHub ecosystem by integrating leading tools and services directly into GitHub's platform. This collaboration enhances the developer experience, streamlining the way software is built, deployed, and maintained.
 
 ## 📚 Table of Contents
-- [Why Use Partner Integrations](#why-use-partner-integrations)
+- [Explore Partner Integrations](#why-use-partner-integrations)
   - [Marketplace](#marketplace)
     - [Apps](#apps)
     - [Actions](#actions)
