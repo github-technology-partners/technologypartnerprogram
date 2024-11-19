@@ -22,4 +22,5 @@ Watch this video to learn more about how custom deployment protection rules can 
 
 Partners have integrated these deployment protection features to empower teams to deploy with confidence.
 
+---
 🔗 [Learn More About Becoming a GitHub Partner](https://partner.github.com/)

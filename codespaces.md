@@ -41,5 +41,6 @@ To explore more templates provided by partners and learn how to publish your own
 - Check the `README.md` in the template repository for any additional setup instructions.
 - Codespaces offer a consistent, cloud-based development environment across projects.
 
+---
 🔗 [Learn More About Becoming a GitHub Partner](https://partner.github.com/)
 

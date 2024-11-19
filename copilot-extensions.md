@@ -30,4 +30,5 @@ Explore essential learning resources to deepen your understanding of Copilot Ext
 
 Enhance your development workflow by learning about GitHub Copilot Extensions and discovering how partners are using them to revolutionize software development.
 
+---
 🔗 [Learn More About Becoming a GitHub Partner](https://partner.github.com/)
