@@ -34,10 +34,10 @@ Follow this guide to start using GitHub Codespace templates, making your develop
    - Stop: Go to the `Codespaces` tab on GitHub and click `Stop`.
    - Delete: Click `Delete` if you no longer need the Codespace.
 
+## 📚 Learn More
+To explore more templates provided by partners and learn how to publish your own Codespace template, visit the [Codespace Templates Documentation](https://github.com/github-technology-partners/codespaces-templates?tab=readme-ov-file).
+
 ## 💡 Tips:
 - Check the `README.md` in the template repository for any additional setup instructions.
 - Codespaces offer a consistent, cloud-based development environment across projects.
 
----
-
-Enjoy the convenience of GitHub Codespace templates for streamlined development!
