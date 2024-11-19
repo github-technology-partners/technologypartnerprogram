@@ -9,3 +9,5 @@ Arm, named GitHub's Partner of the Year 2024, has worked with GitHub to bring po
 *Click the image above to watch the video.*
 
 Want to learn more about this partnership and the benefits of Arm64 runners on GitHub Actions? Check out the [official blog post](https://github.blog/news-insights/product-news/arm64-on-github-actions-powering-faster-more-efficient-build-systems/).
+
+🔗 [Learn More About Becoming a GitHub Partner](https://partner.github.com/)

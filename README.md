@@ -72,7 +72,7 @@ Utilize GitHub's hosted runners and Codespaces for streamlined development and d
 Learn how to create a codespace for your GitHub repository.
 
 #### [Hosted Runners](hosted-runners.md)
-Learn how to use GitHub-hosted runners to run your workflows.
+Learn what partners have built around GitHub-hosted runners.
 
 </details>
 
