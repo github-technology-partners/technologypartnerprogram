@@ -5,8 +5,7 @@ Welcome to the public repository dedicated to helping developers understand how 
 ## 📚 Table of Contents
 - [Explore Partner Integrations](#explore-partner-integrations)
   - [Marketplace](#marketplace)
-    - [Apps](#apps)
-    - [Actions](#actions)
+    - [Apps and Actions](#apps-and-actions)
   - [AI](#ai)
     - [Copilot Extensions](#copilot-extensions)
   - [GitHub Advanced Security](#github-advanced-security)
@@ -25,11 +24,8 @@ Create and distribute apps and actions on the GitHub Marketplace, extending your
 <details>
 <summary>🔽 Expand Marketplace categories</summary>
 
-#### [Apps](apps.md)
-Integrate your favorite developer tools directly into GitHub to automate tasks, enhance productivity, and improve code quality.
-
-#### [Actions](actions.md)
-Simplify your CI/CD pipelines and automate your workflows using GitHub Actions.
+#### [Apps and Actions](apps-actions.md)
+Integrate your favorite developer tools and streamline CI/CD pipelines using GitHub Marketplace. Apps and Actions help automate tasks, enhance productivity, and improve code quality.
 
 </details>
 
