@@ -12,6 +12,8 @@ Welcome to the public repository dedicated to helping developers understand how 
     - [Code Scanning](#code-scanning)
     - [GHAS Reporting](#ghas-reporting)
   - [Platform](#platform)
+    - [Codespaces](#codespaces)
+    - [Hosted Runners](#hosted-runners)
 - [Why Partner with GitHub](#why-partner-with-github)
 
 ---
@@ -24,7 +26,7 @@ Create and distribute apps and actions on the GitHub Marketplace, extending your
 <details>
 <summary>🔽 Expand Marketplace categories</summary>
 
-#### [Apps and Actions](apps-actions.md)
+#### [Apps and Actions](apps-and-actions.md)
 Integrate your favorite developer tools and streamline CI/CD pipelines using GitHub Marketplace. Apps and Actions help automate tasks, enhance productivity, and improve code quality.
 
 </details>
