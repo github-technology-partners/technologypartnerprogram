@@ -52,7 +52,7 @@ Secure your codebase with advanced tools designed to keep your projects protecte
 <details>
 <summary>🔽 Expand Advanced Security Options</summary>
 
-#### [Secret Scanning](https://docs.github.com/en/code-security/code-scanning)
+#### [Secret Scanning](secret-scanning.md)
 Learn how to become a secret scanning partner.
 
 #### [GHAS Reporting](GHAS.md)
