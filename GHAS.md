@@ -49,3 +49,6 @@ Learn more: [ServiceNow GitHub Integration](https://www.servicenow.com/docs/bund
 Explore more about GitHub Advanced Security integrations and how they can enhance your workflows:
 - [Introducing GitHub Vulnerability Management Integrations for Security Professionals](https://github.blog/news-insights/product-news/introducing-github-vulnerability-management-integrations-for-security-professionals/)
 - [Introducing GitHub Advanced Security SIEM Integrations for Security Professionals](https://github.blog/news-insights/product-news/introducing-github-advanced-security-siem-integrations-for-security-professionals/)
+
+---
+🔗 [Learn More About Becoming a GitHub Partner](https://partner.github.com/)
