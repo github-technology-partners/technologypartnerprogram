@@ -15,6 +15,7 @@ Welcome to the public repository dedicated to helping developers understand how 
     - [Codespaces](#codespaces)
     - [Hosted Runners](#hosted-runners)
 - [Why Partner with GitHub](#why-partner-with-github)
+- [Meet Our Partners](#meet-our-partners)
 
 ---
 
@@ -86,5 +87,12 @@ Partnering with GitHub enables your tools and services to reach millions of deve
 - Get free GitHub Enterprise Server licenses to deliver better results to your customers
 
 🔗 [Learn More About Becoming a GitHub Partner](https://partner.github.com/)
+
+---
+
+## Meet Our Partners
+Get to know the innovative companies working with GitHub to enhance the developer experience.
+
+🔗 [Explore Our Partners](partners.md)
 
 ---
